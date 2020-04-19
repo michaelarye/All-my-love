@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="undefined"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>May 29, 1961</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/May 29.xml?date_annotation_20200419150840996",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-19T19:08:40.996Z",
+	"dcterms:issued": "2020-04-19T19:13:14.894Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/michaelarye",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": null,
+		"foaf:nick": "michaelarye"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/May 29.xml?date_annotation_20200419150840996#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/May 29.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/May 29.xml?date_annotation_20200419150840996#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1961-05-29"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description></rdf:RDF></xenoData></teiHeader>
+  <text>
+      <body>
+         <p><date when="1961-05-29" cert="high">May 29/61</date></p>
+         <p>Hi Sweetheart,</p>
+         <p>Well I was just about ready to give up hope, when I received your letter today. I
+            thought it was much more interesting than a grade five composition on communism.</p>
+         <p> By the way why did you a head-ache when you wrote me was it 1 because you had been
+            tapping the bottle 2 or because I give you a headache? ( Oh I just of something &amp;
+            it’s a good thing you did have one.)</p>
+         <p> Nothing is new with me either. Sat. I didn’t do much except &amp; get this help the
+            boys take the cattle to the pasture. They were really weird &amp; ran as fast as they
+            could go. I only went as far as the sixth. (That’s enough for an old woman to run) Sat.
+            night I took mom to visit her sister &amp; we stayed until almost 10:30.</p>
+         <p> Sunday I went to church &amp; Sunday school. Father Maclean was inspiring as
+            usual.<pb/></p>
+         <p>2</p>
+         <p>To night I had to take Tommy to the doctor’s. He has some kind of infection on his head,
+            right in his hair. (No, it isn’t ringworm.)</p>
+         <p>Tomorrow night Joan Hart that teaches Billy is coming over for supper, so I will have to
+            entertain her somehow.</p>
+         <p>Well I am starting to count the days until I see you again. The first week always seem
+            so hopeless, but the second one is better. I suppose you won’t have much time for me
+            this time because you will have to do a lot of work with the go- karts. Maybe though you
+            could find an hour about 1030 some evening- what do you think?</p>
+         <p> Well what do you think of these pictures that two of my kids did for me? (You should
+            see the rest.) I bet the boys didn’t know I was so pretty.</p>
+         <p>I wrote this in bed that’s why its such a mess.</p>
+         <p>p.s. write soon. </p>
+         <salute>All my love,</salute>
+         <signed>LouiseXXXXXXXXX</signed>
+      </body>
+  </text>
+</TEI>
