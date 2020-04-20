@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="undefined"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>May 31, 1961</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 1.xml?place_annotation_20200420132606777",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-20T17:26:06.777Z",
+	"dcterms:issued": "2020-04-20T17:38:31.784Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/michaelarye",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": null,
+		"foaf:nick": "michaelarye"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 1.xml?place_annotation_20200420132606777#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 1.xml?place_annotation_20200420132606777#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://geonames.org/6160116",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:high"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 1.xml?date_annotation_20200420132730120",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-20T17:27:30.120Z",
+	"dcterms:issued": "2020-04-20T17:38:31.785Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/michaelarye",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": null,
+		"foaf:nick": "michaelarye"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 1.xml?date_annotation_20200420132730120#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 1.xml?date_annotation_20200420132730120#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[2]/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1961-05-31"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 1.xml?title_annotation_20200420132813607",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-20T17:28:13.607Z",
+	"dcterms:issued": "2020-04-20T17:38:31.786Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/michaelarye",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": null,
+		"foaf:nick": "michaelarye"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 1.xml?title_annotation_20200420132813607#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 1.xml?title_annotation_20200420132813607#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[5]/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q652069",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:high"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 1.xml?place_annotation_20200420133122793",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-20T17:31:22.793Z",
+	"dcterms:issued": "2020-04-20T17:38:31.787Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/michaelarye",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": null,
+		"foaf:nick": "michaelarye"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 1.xml?place_annotation_20200420133122793#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 1.xml?place_annotation_20200420133122793#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[7]/orgName[2]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://geonames.org/5991370",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:high"
+}
+]]></rdf:Description></rdf:RDF></xenoData></teiHeader>
+  <text>
+      <body>
+         <p><placeName ref="http://geonames.org/6160116" key="Sutton West Ontario Canada" cert="high">Sutton West, Ont.</placeName></p>
+         <p><date when="1961-05-31" cert="high">May 31/61</date></p>
+         <p>Dear Glen;</p>
+         <p>Why is it that you don’t have to work but still get paid? I could do with a job like
+            that myself. Here I am slaving away day after day while you are fishing.</p>
+         <p>Last night Joan Hart (Billy’s teacher) &amp; I went to see “<title ref="http://www.wikidata.org/entity/Q652069" key="Butterfield 8" level="m" cert="high">Butterfield 8</title>.” The man at
+            the show asked me if I was 18. (I guess they would never let you in) It was a pretty
+            good show but definitely not for you young age. </p>
+         <p>I hope you can read this but after a day of writing I get sloppy.</p>
+         <p>To-morrow night there is a tea after school for the <orgName cert="high">Jersey</orgName> &amp; <orgName cert="high"><placeName ref="http://geonames.org/5991370" key="Keswick Ontario Canada" cert="high">Keswick</placeName></orgName> teachers. I
+            doubt if they will even bother to come (Keswick I mean) they<pb/></p>
+         <p>2</p>
+         <p>don’t seem to appreciate us. I heard a rumour that Gail Pollock will be teaching at our
+            school next. I don’t know how we could even be so lucky! </p>
+         <p> So you are cooking up wild and wicked plans with Jerry! No seriously it does sound like
+            fun. Look I’ve been thinking why don’t you ask Jerry &amp; his girlfriend to come up the
+            next time you are home. (provide this is convenient for you of course.) If they came up
+            on a Sunday afternoon they could see your Go-Karts and then we could all have super
+            <pb/></p>
+         <p>3</p>
+         <p>at my place. Of course we would eat in the dining room &amp; the rest of the family (if
+            they were home) would eat in the kitchen. I have been busy entertaining this week &amp;
+            mom doesn’t mind at all. Let me know about this when you write. (I would try to be a
+            charming hostess- haha.)</p>
+         <p> Will you be coming home next week or are you planning on staying there forever? It
+            seems like you have really been gone a long time. Do you think so?</p>
+         <p> Well I just finished making up a English grammar exam. Our exams start on the 8th. I
+            have still Health,<pb/></p>
+         <p>4</p>
+         <p>Science &amp; arithmetic to make up so I’ll be busy on the week-end. </p>
+         <p> I guess you won’t be able to say I didn’t write to you often enough this time dear but
+            I just seem to want to talk to you all the time.</p>
+         <p> Oh by the way it was about time you asked about the kid, I was wondering whether you
+            were forgetting your duty as devoted father or not.</p>
+         <p> I am glad you are resting up while you are away because you sure didn’t get much rest
+            at home last time, with me bugging you to take me out every night. Right?</p>
+         <p> Well I must get some work ready for to-morrow &amp; then go to bed, So goodnight
+            Sweetheart (over)<pb/></p>
+         <p>5</p>
+         <p>XXXXXXXX Here’s hoping they won’t be paper ones much longer.</p>
+         <p>P.S. How did the boys like the pictures of me? I suppose that was just the way you told
+            them I looked.</p>
+         <p>Je Vous Aime I hope you understand French.</p>
+         <salute>All my love,</salute>
+         <signed>Louise</signed>
+         <pb/>
+      </body>
+  </text>
+</TEI>
