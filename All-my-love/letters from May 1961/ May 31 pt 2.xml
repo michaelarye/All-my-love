@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="undefined"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>May 31, 1961</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 2.xml?place_annotation_20200420150922203",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-20T19:09:22.203Z",
+	"dcterms:issued": "2020-04-20T19:14:28.509Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/michaelarye",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": null,
+		"foaf:nick": "michaelarye"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 2.xml?place_annotation_20200420150922203#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 2.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 2.xml?place_annotation_20200420150922203#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[6]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://geonames.org/5917434",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:high"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 2.xml?title_annotation_20200420151245149",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-04-20T19:12:45.149Z",
+	"dcterms:issued": "2020-04-20T19:14:28.541Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/michaelarye",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": null,
+		"foaf:nick": "michaelarye"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 2.xml?title_annotation_20200420151245149#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 2.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 2.xml?title_annotation_20200420151245149#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[10]/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q1845",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:high"
+}
+]]></rdf:Description></rdf:RDF></xenoData></teiHeader>
+  <text>
+      <body>
+         <p>May 31/61</p>
+         <p>Pembroke, Ont.</p>
+         <p>Dear Louise,</p>
+         <p> I am trying to keep up with you in the letter department but it is keeping me busy. </p>
+         <p> Pardon my manners, but I trust you are in good health. I am simply fading away to skin
+            + bones. You know how it is. Your last letter the most interesting + well written that I
+            have had the pleasure of reading. Keep up the good work.</p>
+         <p> Well a short recap of my last three days. Monday we drove seventy miles to <placeName ref="http://geonames.org/5917434" key="Carp Ontario Canada" cert="high">Carp</placeName> for a
+            short job. We finished on time for once and got back here about seven o’clock.</p>
+         <p> Tuesday we finally got started on the job. At noon the boys decided to move into
+            another part. When we got there<pb/></p>
+         <p>We didn’t get started back to work until quarter to three. Tuesday night Jerry + I went
+            out fishing again. This time we were after trout. But somebody had already beaten us to
+            the stream. So we tried another. I caught one rainbow trout (that’s what Jerry called
+            it).</p>
+         <p> Today we went back to where we left off yesterday. We worked all morning. We finished
+            during noon hour. Believe it or not I caught two bass. So far I have not kept any of the
+            fish, I don’t know what I would do with them.</p>
+         <p> Guess what I went to the show tonight I figured it might do me some good seeing it was
+            religious. It was David + Goliath. It was fair, it stuck strictly to the <title ref="http://www.wikidata.org/entity/Q1845" key="Bible" level="m" cert="high">Bible</title>, as it
+            should.<pb/></p>
+         <p> I am glad we have such opinions of ourselves. Both discussing a weekend away from home
+            and saying its not the way you think, it will be respectable. To tell you the truth I
+            think both of them would be fun. If I could only get close to home for a while I would
+            be able to do my share on the Go-Karts track. And then I would be able to alternate
+            weekends with Pete.</p>
+         <p> Sometimes I get browned off with this job. I like the work if you can call it that but
+            right now I am living one out of every three weeks and that is the one I am home. All my
+            social life family life an you are at home. That is why this job bothers me.</p>
+         <p> Well dear that is enough of my troubles as usual everybody else is in bed. So will
+            close </p>
+         <p>P.S. Continue your strength for over<pb/></p>
+         <p>for next weekend. Because I looking forward till then. And please keep the lid on the
+            box.</p>
+         <p> p.s.s. It’s OK if you go out with Duck.</p>
+         <p>All my love,</p>
+         <p>XXXXXXX Glen </p>
+      </body>
+  </text>
+</TEI>
