@@ -43,7 +43,7 @@
 	"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 2.xml?place_annotation_20200420150922203",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-04-20T19:09:22.203Z",
-	"dcterms:issued": "2020-04-20T19:14:28.509Z",
+	"dcterms:issued": "2020-04-21T14:44:50.804Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/michaelarye",
 		"@type": [
@@ -119,7 +119,7 @@
 	"@id": "https://raw.githubusercontent.com/michaelarye/All-my-love/master/All-my-love/letters from May 1961/ May 31 pt 2.xml?title_annotation_20200420151245149",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-04-20T19:12:45.149Z",
-	"dcterms:issued": "2020-04-20T19:14:28.541Z",
+	"dcterms:issued": "2020-04-21T14:44:50.819Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/michaelarye",
 		"@type": [
